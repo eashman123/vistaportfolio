@@ -6,7 +6,7 @@ Themes Used:
 
 2. Grayscale
 
-&nbsp.
+&nbsb
 
 Software Used:
 
