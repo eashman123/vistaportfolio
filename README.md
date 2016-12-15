@@ -1,14 +1,12 @@
-Hi.
+#Hi.
 
-Themes Used: 
+###Themes Used: 
 
 1. Stylish Portfolio
 
 2. Grayscale
 
-&nbsb
-
-Software Used:
+###Software Used:
 
 1. Notepad ++
 
